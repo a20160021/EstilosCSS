@@ -1,0 +1,15 @@
+td{
+    color: rgb(42, 99, 80);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+a{
+    color: rgb(32, 51, 45);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+a:hover{
+    color: rgb(42, 99, 80);
+    font-size: 30px;
+    background-color: rgb(168, 230, 209);
+}
